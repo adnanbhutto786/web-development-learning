@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+    font-family: cursive;
+    text-align: center;
+    color: pink;
+    font-style: italic;
+    font-size: 16px;
+    cursor: pointer;
+    text-transform: capitalize;
+    text-decoration: line-through;
+    
+}
